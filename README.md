@@ -22,5 +22,5 @@ Live Site URL: https://oyindobra-agberebi.github.io/QR-code-component/
 
 ### Author
 
-- Frontend Mentor - <a href ="https://www.frontendmentor.io/profile/Oyindobra-Agberebi" target="blank"">@Oyindobra-Agberebi</a>
-- Twitter - <a href ="https://twitter.com/oyindobra_" target="blank"">@oyindobra_</a>
+- Frontend Mentor - <a href ="https://www.frontendmentor.io/profile/Oyindobra-Agberebi" target="blank">@Oyindobra-Agberebi</a>
+- Twitter - <a href="https://twitter.com/oyindobra_" target="blank">@oyindobra_</a>

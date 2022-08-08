@@ -34,9 +34,12 @@ img{
     font-size: 12px;
     opacity: 0.5;
 }
-.attribution{
-    font-weight: 100;
-    margin-top: 50px;
+.attribute{
+    margin-top: 70px;
+    
+}
+.tag{
+    margin-top: -15px;
 }
  @media (max-width: 375px) {
     .container{

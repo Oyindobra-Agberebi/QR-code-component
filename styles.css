@@ -34,6 +34,10 @@ img{
     font-size: 12px;
     opacity: 0.5;
 }
+.attribution{
+    font-weight: 100;
+    margin-top: 50px;
+}
  @media (max-width: 375px) {
     .container{
         background-color: hsl(0, 0%, 100%);
